@@ -1,0 +1,21 @@
+
+body {
+	margin: 20;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: white;
+    stroke-width: 3px;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: Georgia;
+    font-size: .8em;
+}
+.title {
+    font-family: Georgia;
+    font-size: 2em;
+    font-weight: bold;
+}
